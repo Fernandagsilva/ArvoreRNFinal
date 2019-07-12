@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1562910525 source:c:\projetos\trabalhoarn\arn\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<algorithm>
+	"FuncoesGerais.h"
+
+1562912874 c:\projetos\trabalhoarn\arn\include\rntree.h
+	<string>
+	<stdlib.h>
+	<iostream>
+	"../NoRN.h"
+
+1562912633 c:\projetos\trabalhoarn\arn\norn.h
+
+1562903936 source:c:\projetos\trabalhoarn\arn\norn.cpp
+
+1562913974 source:c:\projetos\trabalhoarn\arn\src\rntree.cpp
+	"RNTree.h"
+	<iostream>
+	<cstring>
+	"../NoRN.h"
+
+1562906330 c:\projetos\trabalhoarn\arn\include\funcoesgerais.h
+	<iostream>
+	<fstream>
+	<ctime>
+	<algorithm>
+	"RNTree.h"
+
+1562913149 source:c:\projetos\trabalhoarn\arn\src\funcoesgerais.cpp
+	"FuncoesGerais.h"
+
